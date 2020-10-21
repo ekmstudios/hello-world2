@@ -2,7 +2,7 @@
 ## H2
 ### H3
 
-**bold text**
+**bold text**<br>
 *italicized text*
 >blockquote 
 1. First item
