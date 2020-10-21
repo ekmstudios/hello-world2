@@ -14,3 +14,30 @@
 ![image from my site](https://www.ekmstudios.com/images/usm-cut-2b.png)
 ---
 ### Heading 3 {#custim-id}
+
+| Syntax | Description |
+| ------ | ----------- |
+| Header | Title |
+| Paragraph | Text |
+<br>
+```
+{
+  "firstName": "Errol",
+  "lastName": "Mayer",
+  "age": 40,
+ }
+ ```
+ 
+ - [x] Write the text
+ - [ ] Update the website
+ - [ ] Push the update
+ 
+ ~The world is round.~
+ 
+ term
+ : definition
+ 
+ Here's a sentence with a footnote. [^1]
+ [^1]: This is a footnote.
+ 
+ 
