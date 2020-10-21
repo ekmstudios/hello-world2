@@ -10,4 +10,7 @@
 3. Third item
 `code`
 ---
-[title](https://www.ekmstudios.com)
+[my site](https://www.ekmstudios.com)
+![image from my site](https://www.ekmstudios.com/images/usm-cut-2b.png)
+---
+### Heading 3 {#custim-id}
