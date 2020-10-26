@@ -24,7 +24,7 @@
 - Third item
 
 ## Code
-> `code`
+```code```
 
 ## Horizontal Rule
 ` --- `
