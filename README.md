@@ -1,7 +1,18 @@
+# Markdown Basic Syntax
+## Heading
+> # H1
+> ## H2
+> ### H3
+
+
 # H1
-> paragraph
+> # H1
+
 ## H2
+> ## H2
+
 ### H3
+> ### H3
 
 **bold text**<br>
 *italicized text*
