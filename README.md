@@ -24,7 +24,7 @@
 - Third item
 
 ## Code
-``code``
+` `code` `
 
 ## Horizontal Rule
 ` --- `
@@ -39,18 +39,18 @@
 # Extended Syntax
 
 ## Table
-` | Syntax | Description | `
-` | ------ | ----------- | `
-` | Header | Title | `
-` | Paragraph | Text | `
+` | Syntax | Description | ` <br>
+` | ------ | ----------- | ` <br>
+` | Header | Title | ` <br>
+` | Paragraph | Text | ` <br>
 
 ## Fenced Code Block
 ` ``` `
 ` { `
-`  "firstName": "Errol", `
-`  "lastName": "Mayer", `
-`  "age": 40, `
-` } `
+`  "firstName": "Errol", ` <br>
+`  "lastName": "Mayer", ` <br>
+`  "age": 40, ` <br>
+` } ` <br>
 ` ``` `
  
  ## Footnote
