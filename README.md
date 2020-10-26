@@ -24,7 +24,7 @@
 - Third item
 
 ## Code
-` `code` `
+> `code`
 
 ## Horizontal Rule
 ` --- `
@@ -33,7 +33,7 @@
 ` [title](https://www.example.com) `
 
 ## Image
-` ![image from my site](image.jpg) `
+` ![alt text](image.jpg) `
 
 
 # Extended Syntax
@@ -67,15 +67,6 @@
  ` ~The world is round.~ `
  
  ## Task List
-` - [x] Write the text `
-` - [ ] Update the website `
-` - [ ] Push the update `
- 
- 
- 
-
- 
- Here's a sentence with a footnote. [^1]
- [^1]: This is a footnote.
- 
- 
+` - [x] Write the text ` <br>
+` - [ ] Update the website ` <br>
+` - [ ] Push the update ` <br>
