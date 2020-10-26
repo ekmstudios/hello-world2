@@ -1,22 +1,17 @@
 # Markdown Basic Syntax
 ## Heading
 ` # H1 `
-> ## H2
-> ### H3
+` ## H2 `
+` ### H3 `
 
+## Bold Text
+` **bold text** `
 
-# H1
-> # H1
+## Italic
+` *italicized text* `
 
-## H2
-> ## H2
-
-### H3
-> ### H3
-
-**bold text**<br>
-*italicized text*
->blockquote
+## Blockquote
+` > blockquote `
 
 ## Ordered List
 1. First item
@@ -29,8 +24,10 @@
 - Third item
 
 ## Code
-`code`
----
+``code``
+
+## Horizontal Rule
+` --- `
 [my site](https://www.ekmstudios.com)
 ![image from my site](https://www.ekmstudios.com/images/usm-cut-2b.png)
 ---
