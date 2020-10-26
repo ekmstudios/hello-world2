@@ -1,20 +1,23 @@
 # H1
+> paragraph
 ## H2
 ### H3
 
 **bold text**<br>
 *italicized text*
->blockquote 
+>blockquote
+
+## Ordered List
 1. First item
 2. Second item
 3. Third item
 
-##Unordered List
+## Unordered List
 - First item
 - Second item
 - Third item
 
-##Code
+## Code
 `code`
 ---
 [my site](https://www.ekmstudios.com)
