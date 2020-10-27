@@ -42,10 +42,15 @@
 # Extended Syntax
 
 ## Table
-` | Syntax | Description | ` <br>
-` | ------ | ----------- | ` <br>
-` | Header | Title | ` <br>
-` | Paragraph | Text | ` <br>
+` | Syntax    | Description | ` <br>
+` | --------- | ----------- | ` <br>
+` | Header    | Title       | ` <br>
+` | Paragraph | Text        | ` <br>
+
+| Syntax    | Description |
+| --------  | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 
 ## Fenced Code Block
 ` ``` `
