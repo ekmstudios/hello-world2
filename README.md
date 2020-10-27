@@ -32,6 +32,9 @@
 ## Link
 ` [title](https://www.example.com) `
 
+## Link
+[title]{#custom-id}
+
 ## Image
 ` ![alt text](image.jpg) `
 
