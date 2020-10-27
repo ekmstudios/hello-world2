@@ -33,7 +33,7 @@
 ` [title](https://www.example.com) `
 
 ## Link
-[title]{#custom-id}
+[title]{#link}
 
 ## Image
 ` ![alt text](image.jpg) `
