@@ -1,8 +1,8 @@
 # Markdown Basic Syntax
 ## Heading
-` # H1 `
-` ## H2 `
-` ### H3 `
+` # H1 `<br />
+` ## H2 `<br />
+` ### H3 `<br />
 
 ## Bold Text
 ` **bold text** `
