@@ -79,4 +79,4 @@
 ` - [ ] Update the website ` <br>
 ` - [ ] Push the update ` <br><br><br>
 
-<table><tr><td>hello</td></tr></table>
+<table border="0"><tr><td>hello</td></tr></table>
