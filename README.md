@@ -80,3 +80,8 @@
 ` - [ ] Push the update ` <br><br><br>
 
 <table border="0"><tr border="0"><td border="0">hello</td><td>hello</td></tr><tr><td>hello</td><td>hello</td></tr></table>
+
+| Syntax    | Description |
+| --------  | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
