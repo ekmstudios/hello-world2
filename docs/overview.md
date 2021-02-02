@@ -7,7 +7,7 @@
   - [point 2.1](#point-2.1)
   - point 2.2
     - point 2.2.1
-- [Howdy & Hello](#howdy-&-hello) 
+- [Howdy & Hello](#howdy-hello) 
 
 howdy
 
@@ -24,4 +24,4 @@ howdy
 ### Point 2.2.1
 howdy
 
-## Howdy & Hello
+## Howdy Hello
