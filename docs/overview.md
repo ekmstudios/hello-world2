@@ -25,4 +25,4 @@ howdy
 howdy
 
 ## Howdy & Hello
-Howdy howdy
+Howdy howdys
