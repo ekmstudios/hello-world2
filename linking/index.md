@@ -3,7 +3,7 @@
 - [Testing](#testing)
 - [Permission Structure](#permission-structure)
 - [What is this?](#what-is-this)
-- [Docs overview](./docs/overview.md)
+- [Docs overview](../docs/overview.md)
 
 ## Testing
 
