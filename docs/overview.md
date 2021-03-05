@@ -11,6 +11,8 @@
 
 howdy
 
+<img src="./images/mayer-family-video-chat01.png" alt="image 1" style="zoom:50%;"/>
+
 ## Point 1
 
 ## Point 2
