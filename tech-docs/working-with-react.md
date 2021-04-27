@@ -7,11 +7,13 @@
 ```
 npx create-react-app my-app
 ```
+Note: Use `npx create-react-app my-app --use-npm` to specify using NPM
+
 3. Once the 'create-react-app' is installced, change directories into the my-app directory you created in the previous step.
 ``` 
 cd my-app
 ```
-4. Then run `npm start` to display a development version of the site in your browser.
+4. Then run `npm start` to deploy a development version of the site in your browser.
 
 Note: The following combines the 3 termainal commands from the previous three steps.
 ```
