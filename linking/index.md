@@ -1,9 +1,13 @@
 # Starter file for linking
 
+- [Deep Linking (Glass)](#deep-linking-glass)
 - [Testing](#testing)
 - [Permission Structure](#permission-structure)
 - [What is this?](#what-is-this)
 - [Docs overview](../docs/overview.md)
+
+
+## Deep Linking (Glass)
 
 ## Testing
 
