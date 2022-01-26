@@ -96,3 +96,6 @@
 Some more text here
 
 And here
+
+## Comments
+<!-- ## Test Heading 2 -->
