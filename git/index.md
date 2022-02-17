@@ -77,5 +77,5 @@ Viewing Status
 ## working with GitHub
 - set up remote
 - Push
-- Fetch/Pull
+- Fetch/Pull 
 
