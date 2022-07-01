@@ -24,7 +24,7 @@ howdy
 point 2.1
 
 ### Point 2.2
-
+point 2.2
 
 ### Point 2.2.1
 howdy
