@@ -21,7 +21,8 @@ howdy
 ## Point 2
 
 ### Point 2.1
-blah blah blah
+point 2.1
+Is this okay?
 
 ### Point 2.2
 point 2.2
